@@ -1,2 +1,2 @@
-# ML_Course_Asim_Tewari
+# ML Course by Asim_Tewari
 ML Course Asim Tewari
