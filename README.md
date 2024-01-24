@@ -1,2 +1,2 @@
-# ML Course by Asim_Tewari
+# Machine Learning Course by Asim Tewari
 ML Course Asim Tewari
